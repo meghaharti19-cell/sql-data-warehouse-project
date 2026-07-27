@@ -112,4 +112,4 @@ Hi there! I'm **Megha harti**. I’m an IT professional on a mission to share kn
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/megha-harti-0445871b5)
+[![LinkedIn](https://github.com/meghaharti19-cell/sql-data-warehouse-project/blob/main/docs/Linked%20in.png)](linkedin.com/in/megha-harti-0445871b5)
