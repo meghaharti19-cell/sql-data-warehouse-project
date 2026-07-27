@@ -101,7 +101,6 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 
-
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
@@ -112,5 +111,5 @@ Hi there! I'm **Megha harti**. I’m an IT professional on a mission to share kn
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn](https://www.linkedin.com/in/megha-harti-0445871b5)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/megha-harti-0445871b5)
