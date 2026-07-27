@@ -112,5 +112,5 @@ Hi there! I'm **Megha harti**. I’m an IT professional on a mission to share kn
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn](https://www.linkedin.com/in/megha-harti-0445871b5/.(https://www.linkedin.com/in/megha-harti-0445871b5))
+[![LinkedIn](https://www.linkedin.com/in/megha-harti-0445871b5)
 
